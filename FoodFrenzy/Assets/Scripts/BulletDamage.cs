@@ -5,7 +5,7 @@ public class BulletDamage : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D co) 
 	{
-		if (co.tag == "enemy") 
+		if (co.tag == "Enemy") 
 		{
 			// Deal Damage, destroy Bullet
 			co.GetComponent<Health>().doDamage(1);

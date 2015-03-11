@@ -17,8 +17,6 @@ public class BulletFire : MonoBehaviour {
 	{
 		if (this.enemyInFront()) 
 		{
-			GetComponent<Animator> ().SetTrigger ("IsFiring");
-			
 			Instantiate (bullet, transform.position, Quaternion.identity);
 		}
 	}
@@ -33,7 +31,7 @@ public class BulletFire : MonoBehaviour {
 		foreach (RaycastHit2D hit in hits) 
 		{
 			if (hit.collider != null &&
-			    hit.collider.gameObject.tag == "enemy")
+			    hit.collider.gameObject.tag == "Enemy")
 				return true;
 		}
 		return false;

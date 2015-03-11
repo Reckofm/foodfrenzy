@@ -7,7 +7,7 @@ public class EnemyAttack : MonoBehaviour {
 	
 	void OnCollisionStay2D(Collision2D coll) 
 	{
-		if (coll.gameObject.tag == "unit") 
+		if (coll.gameObject.tag == "Unit") 
 		{
 			if (Time.time - last >= 1)
 			{
