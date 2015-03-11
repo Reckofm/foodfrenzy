@@ -8,6 +8,7 @@ public class Tile : MonoBehaviour {
 		if (MenuBuild.cur != null) {
 			// Build it
 			Instantiate(MenuBuild.cur.gameObject, transform.position, Quaternion.identity);
+			CoinCollect.score -= MenuBuild.cur.price;
 			MenuBuild.cur = null;
 		}
 	}

@@ -3773,6 +3773,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e42954357f50748b086dbbdc921d4f49, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  coinImage: {fileID: 2800000, guid: 1510c69ff160e45a7bf4f0c9fa394460, type: 3}
   units:
   - {fileID: 11481528, guid: 6b98f05a6715c4056a2b5e81c69d4a70, type: 2}
   - {fileID: 11499594, guid: 434be1a65832e4a8b97f0a5877e66224, type: 2}

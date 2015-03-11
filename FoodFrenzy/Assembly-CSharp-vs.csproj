@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\BulletDamage.cs" />
      <Compile Include="Assets\Scripts\BulletFire.cs" />
+     <Compile Include="Assets\Scripts\CoinCollect.cs" />
      <Compile Include="Assets\Scripts\CoinSpawn.cs" />
      <Compile Include="Assets\Scripts\DefaultVelocity.cs" />
      <Compile Include="Assets\Scripts\EnemyAttack.cs" />
