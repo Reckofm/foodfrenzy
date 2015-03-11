@@ -1,13 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../FoodFrenzy__1_0_0/Assets/Scripts/EnemyAttacking.cs">
-    <Files>
-      <File FileName="../../FoodFrenzy__1_0_0/Assets/Scripts/BulletDamage.cs" Line="1" Column="1" />
-      <File FileName="../../FoodFrenzy__1_0_0/Assets/Scripts/BulletFire.cs" Line="1" Column="1" />
-      <File FileName="../../FoodFrenzy__1_0_0/Assets/Scripts/DefaultVelocity.cs" Line="1" Column="1" />
-      <File FileName="../../FoodFrenzy__1_0_0/Assets/Scripts/EnemyAttacking.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
