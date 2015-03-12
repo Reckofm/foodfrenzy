@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\CoinSpawn.cs" />
      <Compile Include="Assets\Scripts\DefaultVelocity.cs" />
      <Compile Include="Assets\Scripts\EnemyAttack.cs" />
+     <Compile Include="Assets\Scripts\EnemySpawner.cs" />
      <Compile Include="Assets\Scripts\Health.cs" />
      <Compile Include="Assets\Scripts\MenuBuild.cs" />
      <Compile Include="Assets\Scripts\MenuInfo.cs" />
