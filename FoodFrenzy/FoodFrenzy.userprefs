@@ -1,9 +1,17 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuBuild.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BulletFire.cs">
     <Files>
       <File FileName="Assets/Scripts/CoinSpawn.cs" Line="13" Column="16" />
-      <File FileName="Assets/Scripts/MenuBuild.cs" Line="18" Column="70" />
+      <File FileName="Assets/Scripts/MenuBuild.cs" Line="18" Column="60" />
+      <File FileName="Assets/Scripts/CoinCollect.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/MenuInfo.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/Tile.cs" Line="11" Column="34" />
+      <File FileName="Assets/Scripts/BulletFire.cs" Line="28" Column="68" />
+      <File FileName="Assets/Scripts/BulletDamage.cs" Line="8" Column="23" />
+      <File FileName="Assets/Scripts/DefaultVelocity.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/EnemyAttack.cs" Line="10" Column="35" />
+      <File FileName="Assets/Scripts/Health.cs" Line="11" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
