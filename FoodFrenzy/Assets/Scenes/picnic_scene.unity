@@ -196,7 +196,7 @@ MonoBehaviour:
   enemy: {fileID: 168550, guid: aead8e0a695e44d9dbeb11411366ceef, type: 2}
   numberOfEnemies: 4
   firstSpawn: 2
-  interval: 5
+  interval: 10
 --- !u!61 &54709389
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -207,7 +207,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_Size: {x: .800000012, y: .800000012}
+  m_Size: {x: .200000003, y: .200000003}
   m_Center: {x: 0, y: 0}
 --- !u!114 &54709390
 MonoBehaviour:
@@ -252,7 +252,7 @@ Transform:
   m_PrefabInternal: {fileID: 298066958}
   m_GameObject: {fileID: 54709386}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.85204244, y: .144189656, z: 0}
+  m_LocalPosition: {x: 3.9000001, y: -.238999993, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -596,11 +596,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 406426, guid: 3f5fb92d69e21a94a87e8237cec6474e, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 3.85204244
+      value: 3.9000001
       objectReference: {fileID: 0}
     - target: {fileID: 406426, guid: 3f5fb92d69e21a94a87e8237cec6474e, type: 2}
       propertyPath: m_LocalPosition.y
-      value: .144189656
+      value: -.238999993
       objectReference: {fileID: 0}
     - target: {fileID: 406426, guid: 3f5fb92d69e21a94a87e8237cec6474e, type: 2}
       propertyPath: m_LocalPosition.z
@@ -629,6 +629,10 @@ Prefab:
     - target: {fileID: 21206426, guid: 3f5fb92d69e21a94a87e8237cec6474e, type: 2}
       propertyPath: m_Sprite
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 11472190, guid: 3f5fb92d69e21a94a87e8237cec6474e, type: 2}
+      propertyPath: interval
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3f5fb92d69e21a94a87e8237cec6474e, type: 2}
