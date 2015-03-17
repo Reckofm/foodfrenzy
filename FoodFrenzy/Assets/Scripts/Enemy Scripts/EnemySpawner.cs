@@ -11,14 +11,17 @@ public class EnemySpawner : MonoBehaviour {
 
 	void Start() 
 	{
-			InvokeRepeating("Spawn", this.firstSpawn, this.interval);
+		InvokeRepeating("Spawn", this.firstSpawn, this.interval);
 	}
 	
 	void Spawn() 
 	{
-		Instantiate(enemy,
-				transform.position,
-				Quaternion.identity);
-		this.numberOfEnemies--;
+		if(this.numberOfEnemies > 0 )
+		{
+			Instantiate(enemy,
+					transform.position,
+					Quaternion.identity);
+			this.numberOfEnemies--;
+		}
 	}
 }

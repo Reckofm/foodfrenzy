@@ -58,6 +58,7 @@
      <Compile Include="Assets\Scripts\Player Scripts\BulletFire.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\CoinCollect.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\CoinSpawn.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\Fading.cs" />
      <Compile Include="Assets\Scripts\UI Scripts\MenuBuild.cs" />
      <Compile Include="Assets\Scripts\UI Scripts\MenuInfo.cs" />
      <Compile Include="Assets\Scripts\UI Scripts\NavigationScript.cs" />

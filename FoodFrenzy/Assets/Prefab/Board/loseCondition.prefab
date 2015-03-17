@@ -52,6 +52,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe40382d4bf1e0c44b17b65a62890331, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fadeOutTexture: {fileID: 2800000, guid: 8f3ea637b1ac9984f8654f3f9e1c77b5, type: 3}
 --- !u!212 &21221162
 SpriteRenderer:
   m_ObjectHideFlags: 1
