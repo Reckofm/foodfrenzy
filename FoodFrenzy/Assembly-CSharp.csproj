@@ -47,18 +47,20 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SceneNavigation.cs" />
-     <Compile Include="Assets\Scripts\BulletDamage.cs" />
-     <Compile Include="Assets\Scripts\BulletFire.cs" />
-     <Compile Include="Assets\Scripts\CoinCollect.cs" />
-     <Compile Include="Assets\Scripts\CoinSpawn.cs" />
-     <Compile Include="Assets\Scripts\DefaultVelocity.cs" />
-     <Compile Include="Assets\Scripts\EnemyAttack.cs" />
-     <Compile Include="Assets\Scripts\EnemySpawner.cs" />
-     <Compile Include="Assets\Scripts\Health.cs" />
-     <Compile Include="Assets\Scripts\MenuBuild.cs" />
-     <Compile Include="Assets\Scripts\MenuInfo.cs" />
-     <Compile Include="Assets\Scripts\NavigationScript.cs" />
-     <Compile Include="Assets\Scripts\Tile.cs" />
+     <Compile Include="Assets\Scripts\Enemy Scripts\EnemyAttack.cs" />
+     <Compile Include="Assets\Scripts\Enemy Scripts\EnemySpawner.cs" />
+     <Compile Include="Assets\Scripts\Gameplay Scripts\DefaultVelocity.cs" />
+     <Compile Include="Assets\Scripts\Gameplay Scripts\Health.cs" />
+     <Compile Include="Assets\Scripts\Gameplay Scripts\LoseGameScript.cs" />
+     <Compile Include="Assets\Scripts\Gameplay Scripts\ObjectBoundryScript.cs" />
+     <Compile Include="Assets\Scripts\Gameplay Scripts\Tile.cs" />
+     <Compile Include="Assets\Scripts\Player Scripts\BulletDamage.cs" />
+     <Compile Include="Assets\Scripts\Player Scripts\BulletFire.cs" />
+     <Compile Include="Assets\Scripts\Player Scripts\CoinCollect.cs" />
+     <Compile Include="Assets\Scripts\Player Scripts\CoinSpawn.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\MenuBuild.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\MenuInfo.cs" />
+     <Compile Include="Assets\Scripts\UI Scripts\NavigationScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

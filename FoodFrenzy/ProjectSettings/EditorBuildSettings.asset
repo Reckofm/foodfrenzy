@@ -10,4 +10,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/title_scene.unity
   - enabled: 1
-    path: Assets/Scenes/picnic_scene.unity
+    path: Assets/Scenes/Levels/picnic_scene.unity
