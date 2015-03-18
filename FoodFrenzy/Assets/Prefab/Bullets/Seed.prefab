@@ -14,7 +14,7 @@ GameObject:
   - 114: {fileID: 11497954}
   - 114: {fileID: 11497952}
   m_Layer: 0
-  m_Name: Bill
+  m_Name: Seed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

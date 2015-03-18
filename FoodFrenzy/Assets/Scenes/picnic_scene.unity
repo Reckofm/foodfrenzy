@@ -175,7 +175,7 @@ GameObject:
   - 61: {fileID: 54709389}
   - 114: {fileID: 54709387}
   m_Layer: 0
-  m_Name: enemy_1_spwner
+  m_Name: enemy_spawner
   m_TagString: Respawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
