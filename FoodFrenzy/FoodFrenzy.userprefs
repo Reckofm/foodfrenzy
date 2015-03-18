@@ -1,17 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BulletFire.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy Scripts/EnemySpawner.cs">
     <Files>
-      <File FileName="Assets/Scripts/CoinSpawn.cs" Line="13" Column="16" />
-      <File FileName="Assets/Scripts/MenuBuild.cs" Line="18" Column="60" />
-      <File FileName="Assets/Scripts/CoinCollect.cs" Line="5" Column="1" />
-      <File FileName="Assets/Scripts/MenuInfo.cs" Line="8" Column="1" />
-      <File FileName="Assets/Scripts/Tile.cs" Line="11" Column="34" />
-      <File FileName="Assets/Scripts/BulletFire.cs" Line="28" Column="68" />
-      <File FileName="Assets/Scripts/BulletDamage.cs" Line="8" Column="23" />
-      <File FileName="Assets/Scripts/DefaultVelocity.cs" Line="13" Column="1" />
-      <File FileName="Assets/Scripts/EnemyAttack.cs" Line="10" Column="35" />
-      <File FileName="Assets/Scripts/Health.cs" Line="11" Column="2" />
+      <File FileName="Assets/Scripts/Gameplay Scripts/LoseGameScript.cs" Line="9" Column="40" />
+      <File FileName="Assets/Scripts/UI Scripts/NavigationScript.cs" Line="11" Column="31" />
+      <File FileName="Assets/Scripts/Enemy Scripts/EnemySpawner.cs" Line="28" Column="27" />
+      <File FileName="Assets/Scripts/Gameplay Scripts/Health.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI Scripts/MenuBuild.cs" Line="15" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

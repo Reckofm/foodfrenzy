@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\Gameplay Scripts\LoseGameScript.cs" />
      <Compile Include="Assets\Scripts\Gameplay Scripts\ObjectBoundryScript.cs" />
      <Compile Include="Assets\Scripts\Gameplay Scripts\Tile.cs" />
+     <Compile Include="Assets\Scripts\Gameplay Scripts\WinConditionScript.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\BulletDamage.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\BulletFire.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\CoinCollect.cs" />
