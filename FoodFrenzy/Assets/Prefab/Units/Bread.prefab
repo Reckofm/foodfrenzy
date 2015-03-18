@@ -54,7 +54,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   previewImage: {fileID: 2800000, guid: 0dd5712d50417403584d523e9fd0c154, type: 3}
-  price: 0
+  price: 50
 --- !u!114 &11498032
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -66,7 +66,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67abbc2ebb571426ab17e72fd28eb3b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cur: 5
+  cur: 10
 --- !u!212 &21298032
 SpriteRenderer:
   m_ObjectHideFlags: 1

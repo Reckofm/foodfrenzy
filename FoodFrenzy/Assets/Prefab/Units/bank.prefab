@@ -79,7 +79,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   previewImage: {fileID: 2800000, guid: 2dbd621a32514478da762a9b07202c4d, type: 3}
-  price: 10
+  price: 50
 --- !u!212 &21200702
 SpriteRenderer:
   m_ObjectHideFlags: 1
