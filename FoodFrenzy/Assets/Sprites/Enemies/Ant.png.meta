@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 1fedc2a2d5e174ed5a3cf44eac2da16f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ant_0
+    21300002: Ant_1
+    21300004: Ant_2
+    21300006: Ant_3
+    21300008: Ant_4
+    21300010: Ant_5
+    21300012: Ant_6
+    21300014: Ant_7
+    21300016: Ant_8
+    21300018: Ant_9
+    21300020: Ant_10
+    21300022: Ant_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ant_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 339
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 338
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 338
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 102
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 221
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 240
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 103
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 130
+        width: 104
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 136
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 104
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 16
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ant_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 28
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
