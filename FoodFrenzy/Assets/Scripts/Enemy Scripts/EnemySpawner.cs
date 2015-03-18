@@ -16,12 +16,16 @@ public class EnemySpawner : MonoBehaviour {
 	
 	void Spawn() 
 	{
-		if(this.numberOfEnemies > 0 )
+		if (this.numberOfEnemies > 0) 
 		{
-			Instantiate(enemy,
+			Instantiate (enemy,
 					transform.position,
 					Quaternion.identity);
-			this.numberOfEnemies--;
+						this.numberOfEnemies--;
+		} 
+		else 
+		{
+			Destroy(this.gameObject);
 		}
 	}
 }

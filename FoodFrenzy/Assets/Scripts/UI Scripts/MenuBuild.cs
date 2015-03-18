@@ -12,7 +12,7 @@ public class MenuBuild : MonoBehaviour {
 	void OnGUI() 
 	{
 		// Begin Gui
-		GUILayout.BeginArea(new Rect(Screen.width/2 - 100, -7, 200, 100));
+		GUILayout.BeginArea(new Rect(Screen.width/2 - 150, -7, 300, 100));
 		GUILayout.BeginHorizontal("box");
 
 		GUILayout.Box(new GUIContent(CoinCollect.score.ToString(), coinImage));
