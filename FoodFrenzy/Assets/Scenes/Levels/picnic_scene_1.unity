@@ -692,7 +692,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 420360, guid: 9fa71c10a068b0d44886c1377eb41fbd, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11420360, guid: 9fa71c10a068b0d44886c1377eb41fbd, type: 2}
       propertyPath: numberOfEnemies
