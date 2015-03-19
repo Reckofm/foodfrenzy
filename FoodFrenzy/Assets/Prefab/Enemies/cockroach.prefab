@@ -15,7 +15,7 @@ GameObject:
   - 61: {fileID: 6162282}
   - 50: {fileID: 5014100}
   - 114: {fileID: 11429262}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cockroach
   m_TagString: Enemy
   m_Icon: {fileID: 0}

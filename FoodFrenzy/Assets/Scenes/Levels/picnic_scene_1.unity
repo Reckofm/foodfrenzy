@@ -696,7 +696,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11420360, guid: 9fa71c10a068b0d44886c1377eb41fbd, type: 2}
       propertyPath: numberOfEnemies
-      value: 1
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 11420360, guid: 9fa71c10a068b0d44886c1377eb41fbd, type: 2}
       propertyPath: enemy
@@ -4023,7 +4023,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemy: {fileID: 159286, guid: 904b59a86c60e4ccba2e416e028f429b, type: 2}
-  numberOfEnemies: 1
+  numberOfEnemies: 6
   firstSpawn: 2
   interval: 5
 --- !u!61 &1682171658

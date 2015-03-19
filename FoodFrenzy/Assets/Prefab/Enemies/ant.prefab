@@ -15,7 +15,7 @@ GameObject:
   - 114: {fileID: 11468550}
   - 50: {fileID: 5068550}
   - 61: {fileID: 6168550}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: ant
   m_TagString: Enemy
   m_Icon: {fileID: 0}
