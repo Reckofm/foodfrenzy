@@ -3902,7 +3902,6 @@ GameObject:
   m_Component:
   - 4: {fileID: 1664094266}
   - 114: {fileID: 1664094267}
-  - 114: {fileID: 1664094268}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
@@ -3934,19 +3933,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneName: picnic_scene_2
---- !u!114 &1664094268
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1664094265}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 636a4e8a424778d4cb95aa03a4dcf5c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  fadeOutTexture: {fileID: 2800000, guid: 8f3ea637b1ac9984f8654f3f9e1c77b5, type: 3}
-  fadeSpeed: .800000012
 --- !u!1001 &1666875778
 Prefab:
   m_ObjectHideFlags: 0
