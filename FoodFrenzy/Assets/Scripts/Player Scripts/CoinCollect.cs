@@ -8,7 +8,7 @@ public class CoinCollect : MonoBehaviour
 	
 	void OnMouseDown() 
 	{
-		score += 20;
+		score += 25;
 
 		Destroy(gameObject);
 	}
