@@ -13,7 +13,7 @@ public class NavigationScript : MonoBehaviour {
 		Rect button = new Rect(20,40,80,20);
 		if(GUI.Button(button, buttonLabel))
 		{
-			Application.LoadLevel(sceneName);
+			AutoFade.LoadLevel(sceneName ,3,1,Color.black);
 		}
 	}
  
