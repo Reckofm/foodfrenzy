@@ -1,10 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player Scripts\BulletDamage.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player Scripts/SpiceEffect.cs">
     <Files>
-      <File FileName="Assets\Scripts\Player Scripts\CoinSpawn.cs" Line="10" Column="34" />
-      <File FileName="Assets\Scripts\Player Scripts\CoinCollect.cs" Line="13" Column="23" />
-      <File FileName="Assets\Scripts\Player Scripts\BulletDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI Scripts/SpiceRack.cs" Line="13" Column="80" />
+      <File FileName="Assets/Scripts/UI Scripts/MenuBuild.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gameplay Scripts/Tile.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/UI Scripts/MenuInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player Scripts/SpiceEffect.cs" Line="5" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
