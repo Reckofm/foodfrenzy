@@ -6,7 +6,7 @@ public class LoseGameScript : MonoBehaviour
 	
 	public void OnTriggerEnter2D(Collider2D other) 
 	{
-		Application.LoadLevel("title_scene");
+		AutoFade.LoadLevel("title_scene" ,3,1,Color.black);
 	}
     
 }

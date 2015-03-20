@@ -67,7 +67,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bullet: {fileID: 197952, guid: 967063e2d6ab74f379036d5ad48b9a07, type: 2}
-  shootingInterval: 2
+  shootingInterval: 2.5
 --- !u!114 &11499594
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -80,7 +80,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   previewImage: {fileID: 2800000, guid: 1c610d1427b4a4d6baefb4cfeeb5f7a5, type: 3}
-  price: 75
+  price: 100
 --- !u!212 &21214920
 SpriteRenderer:
   m_ObjectHideFlags: 1

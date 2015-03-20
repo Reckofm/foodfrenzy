@@ -15,7 +15,7 @@ GameObject:
   - 61: {fileID: 6162282}
   - 50: {fileID: 5014100}
   - 114: {fileID: 11429262}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cockroach
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -86,7 +86,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67abbc2ebb571426ab17e72fd28eb3b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cur: 5
+  cur: 7
 --- !u!114 &11459284
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e65144c17a1564a118f713c1a6a634cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: {x: -1, y: 0}
+  velocity: {x: -.200000003, y: 0}
 --- !u!212 &21259286
 SpriteRenderer:
   m_ObjectHideFlags: 1

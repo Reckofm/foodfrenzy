@@ -14,7 +14,7 @@ GameObject:
   - 114: {fileID: 11490480}
   m_Layer: 0
   m_Name: Bread
-  m_TagString: Untagged
+  m_TagString: Unit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39,7 +39,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 198032}
   m_Enabled: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Size: {x: 1, y: 1}
   m_Center: {x: 0, y: 0}
 --- !u!114 &11490480
@@ -54,7 +54,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   previewImage: {fileID: 2800000, guid: 0dd5712d50417403584d523e9fd0c154, type: 3}
-  price: 50
+  price: 75
 --- !u!114 &11498032
 MonoBehaviour:
   m_ObjectHideFlags: 1
