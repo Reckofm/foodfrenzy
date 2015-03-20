@@ -10,15 +10,7 @@ public class WinConditionScript : MonoBehaviour {
 	{
 		if(GameObject.FindWithTag("Respawn") == null && GameObject.FindWithTag("Enemy") == null)
 		{
-			this.ChangeLevel();
-			Application.LoadLevel(sceneName);
+			AutoFade.LoadLevel(sceneName ,3,1,Color.black);
 		}
-	}
-
-	IEnumerator ChangeLevel()
-	{
-		float fadeTime = GameObject.Find ("GameController").GetComponent<Fading>().BeginFade(1);
-		yield return new WaitForSeconds (fadeTime);
-		Application.LoadLevel(sceneName);
 	}
 }

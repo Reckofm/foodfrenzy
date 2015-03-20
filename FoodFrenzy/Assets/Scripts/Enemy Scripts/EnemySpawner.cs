@@ -25,7 +25,7 @@ public class EnemySpawner : MonoBehaviour {
 		} 
 		else 
 		{
-			Destroy(this.gameObject);
+			this.gameObject.tag = "Untagged";
 		}
 	}
 }
