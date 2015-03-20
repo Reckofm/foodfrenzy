@@ -6,7 +6,7 @@ public class BulletFire : MonoBehaviour {
 	public GameObject bullet;
 	
 	public float shootingInterval = 0.5f;
-	
+
 	// Use this for initialization
 	void Start () 
 	{
@@ -32,7 +32,9 @@ public class BulletFire : MonoBehaviour {
 		{
 			if (hit.collider != null &&
 			    hit.collider.gameObject.tag == "Enemy")
+			{
 				return true;
+			}
 		}
 		return false;
 	}

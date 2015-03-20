@@ -7,7 +7,7 @@ public class CoinSpawn : MonoBehaviour {
 
 	void Start() 
 	{
-		InvokeRepeating("Spawn", 10, 10);
+		InvokeRepeating("Spawn", 5, 7);
 	}
 	
 	void Spawn() 
