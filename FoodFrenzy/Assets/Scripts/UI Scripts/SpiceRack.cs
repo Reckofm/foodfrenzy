@@ -10,13 +10,13 @@ public class SpiceRack : MonoBehaviour {
 	void OnGUI() 
 	{
 		// Begin Gui
-		GUILayout.BeginArea(new Rect(Screen.width/2 - 150, Screen.height - 30, 300, 100));
+		GUILayout.BeginArea(new Rect(Screen.width/2 - 100, Screen.height - 50, 200, 50));
 		GUILayout.BeginHorizontal("box");
 		
 		// Draw each unuits BuildInfo
 		foreach (MenuInfo bi in spices) 
 		{
-			if (GUILayout.Button(new GUIContent(bi.price.ToString(), bi.previewImage)))
+			if (GUILayout.Button(new GUIContent(bi.previewImage)))
 			{
 				cur = bi;
 			}
