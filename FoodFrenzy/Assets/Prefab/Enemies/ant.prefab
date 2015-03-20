@@ -86,7 +86,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67abbc2ebb571426ab17e72fd28eb3b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cur: 8
+  cur: 4
 --- !u!114 &11468548
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e65144c17a1564a118f713c1a6a634cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: {x: -.300000012, y: 0}
+  velocity: {x: -.5, y: 0}
 --- !u!114 &11468550
 MonoBehaviour:
   m_ObjectHideFlags: 1
