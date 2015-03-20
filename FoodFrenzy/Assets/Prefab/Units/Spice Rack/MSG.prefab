@@ -10,6 +10,7 @@ GameObject:
   - 4: {fileID: 499656}
   - 212: {fileID: 21299656}
   - 114: {fileID: 11499656}
+  - 114: {fileID: 11424986}
   m_Layer: 0
   m_Name: MSG
   m_TagString: Untagged
@@ -29,6 +30,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+--- !u!114 &11424986
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 199656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4063ec7e8f7c44cc4bf4e768d5209e2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireRate: 2
+  healthBoost: 0
+  damageBoost: 0
 --- !u!114 &11499656
 MonoBehaviour:
   m_ObjectHideFlags: 1

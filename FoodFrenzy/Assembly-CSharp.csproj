@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\Enemy Scripts\EnemyAttack.cs" />
      <Compile Include="Assets\Scripts\Enemy Scripts\EnemySpawner.cs" />
      <Compile Include="Assets\Scripts\Gameplay Scripts\DefaultVelocity.cs" />
+     <Compile Include="Assets\Scripts\Gameplay Scripts\FoodSpiceScript.cs" />
      <Compile Include="Assets\Scripts\Gameplay Scripts\Health.cs" />
      <Compile Include="Assets\Scripts\Gameplay Scripts\LoseGameScript.cs" />
      <Compile Include="Assets\Scripts\Gameplay Scripts\ObjectBoundryScript.cs" />
@@ -59,6 +60,7 @@
      <Compile Include="Assets\Scripts\Player Scripts\BulletFire.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\CoinCollect.cs" />
      <Compile Include="Assets\Scripts\Player Scripts\CoinSpawn.cs" />
+     <Compile Include="Assets\Scripts\Player Scripts\SpiceEffect.cs" />
      <Compile Include="Assets\Scripts\UI Scripts\AutoFade.cs" />
      <Compile Include="Assets\Scripts\UI Scripts\MenuBuild.cs" />
      <Compile Include="Assets\Scripts\UI Scripts\MenuInfo.cs" />

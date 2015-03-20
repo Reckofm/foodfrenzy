@@ -10,6 +10,7 @@ GameObject:
   - 4: {fileID: 402880}
   - 212: {fileID: 21202880}
   - 114: {fileID: 11402880}
+  - 114: {fileID: 11490624}
   m_Layer: 0
   m_Name: Salt
   m_TagString: Untagged
@@ -42,6 +43,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   previewImage: {fileID: 2800000, guid: 5d6e523e0f9e944729cdd9d07770b724, type: 3}
   price: 0
+--- !u!114 &11490624
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 102880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4063ec7e8f7c44cc4bf4e768d5209e2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireRate: 0
+  healthBoost: 3
+  damageBoost: 0
 --- !u!212 &21202880
 SpriteRenderer:
   m_ObjectHideFlags: 1
