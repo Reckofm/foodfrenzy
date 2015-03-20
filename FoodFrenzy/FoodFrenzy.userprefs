@@ -1,15 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player Scripts/CoinCollect.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI Scripts/SpiceRack.cs">
     <Files>
-      <File FileName="Assets/Scripts/Gameplay Scripts/LoseGameScript.cs" Line="9" Column="1" />
-      <File FileName="Assets/Scripts/Gameplay Scripts/WinConditionScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/UI Scripts/MenuBuild.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/UI Scripts/MenuInfo.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Gameplay Scripts/Tile.cs" Line="15" Column="5" />
-      <File FileName="Assets/Scripts/Player Scripts/CoinCollect.cs" Line="11" Column="14" />
-      <File FileName="Assets/Scripts/Player Scripts/BulletFire.cs" Line="20" Column="66" />
-      <File FileName="Assets/Scripts/Player Scripts/CoinSpawn.cs" Line="10" Column="29" />
+      <File FileName="Assets/Scripts/UI Scripts/SpiceRack.cs" Line="13" Column="72" />
+      <File FileName="Assets/Scripts/UI Scripts/MenuBuild.cs" Line="8" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
